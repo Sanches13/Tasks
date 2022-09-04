@@ -1,1 +1,1 @@
-## Tasks for an internship at Yandex
+## Training tasks
